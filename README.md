@@ -4,12 +4,8 @@ A catch-all location for storing the work that I do as I aspire to become a soft
 ## Beginner Decisions:
 - programming language
   - Typescript
-  - PHP
-  - Javascript
-  - Rust
-  - Flutter
 - object oriented development
-  - How do I know that I'm good at this?
+  - Self reporting survey
 - a development platform
   - Web development
 - picking your IDE of choice
